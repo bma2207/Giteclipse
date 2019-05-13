@@ -28,11 +28,11 @@ public class Test {
 			
 			System.out.println(k);
 		
-		  /*for(Integer i : values)
+		  for(Integer i : values)
 		  {
     	  System.out.println(i);
-		  }*/
-	//	values.forEach(j -> System.out.println(j));
+		  }
+	values.forEach(j -> System.out.println(j));
 		
 		
 	}
